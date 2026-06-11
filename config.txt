@@ -1,0 +1,8 @@
+{
+  "domain": "https://www.kutech.tw:4443",
+  "homepage": "https://192.168.15.116",
+  "ai": "https://192.168.15.205:3000",
+  "account": "PHAR01",
+  "password": "0000",
+  "hospital": "tph"
+}
